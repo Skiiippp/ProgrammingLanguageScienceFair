@@ -1,1 +1,1 @@
-# ProgrammingLanguageScienceFair
+# This code will not work on its own. It will only work if it is pasted inside the /language/src/main/java directory of the simplelanguage which was developed by Oracle, or if you have truffle and graal working correctly and you are using GraalVM version 20.3.0 . The primary purpose of this repository is just for those interested to see the code that I have written for my programming language that I will be showing in a science fair.
